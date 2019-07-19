@@ -1,0 +1,18 @@
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\obj\Debug\Movie-BAL.csprojResolveAssemblyReference.cache
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\bin\Debug\Movie-BAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\bin\Debug\Movie-BAL.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\bin\Debug\Movie-DAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\bin\Debug\Movie-Entities.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\bin\Debug\Movie-DAL.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\bin\Debug\Movie-Entities.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\obj\Debug\Movie-BAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-BAL\obj\Debug\Movie-BAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\bin\Debug\Movie-BAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\bin\Debug\Movie-BAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\bin\Debug\Movie-DAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\bin\Debug\Movie-Entities.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\bin\Debug\Movie-DAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\bin\Debug\Movie-Entities.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\obj\Debug\Movie-BAL.csprojResolveAssemblyReference.cache
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\obj\Debug\Movie-BAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-BAL\obj\Debug\Movie-BAL.pdb

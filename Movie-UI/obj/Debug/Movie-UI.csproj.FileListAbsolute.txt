@@ -1,0 +1,24 @@
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\obj\Debug\Movie-UI.csprojResolveAssemblyReference.cache
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-UI.dll.config
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-UI.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-UI.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-BAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-Entities.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-DAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-BAL.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-Entities.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\bin\Movie-DAL.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\obj\Debug\Movie-UI.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-UI\obj\Debug\Movie-UI.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-UI.dll.config
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-UI.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-UI.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-BAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-Entities.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-DAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-BAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-Entities.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\bin\Movie-DAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\obj\Debug\Movie-UI.csprojResolveAssemblyReference.cache
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\obj\Debug\Movie-UI.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-UI\obj\Debug\Movie-UI.pdb

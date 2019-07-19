@@ -1,0 +1,14 @@
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\obj\Debug\Movie-DAL.csprojResolveAssemblyReference.cache
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\bin\Debug\Movie-DAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\bin\Debug\Movie-DAL.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\bin\Debug\Movie-Entities.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\bin\Debug\Movie-Entities.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\obj\Debug\Movie-DAL.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-DAL\obj\Debug\Movie-DAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\bin\Debug\Movie-DAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\bin\Debug\Movie-DAL.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\bin\Debug\Movie-Entities.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\bin\Debug\Movie-Entities.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\obj\Debug\Movie-DAL.csprojResolveAssemblyReference.cache
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\obj\Debug\Movie-DAL.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-DAL\obj\Debug\Movie-DAL.pdb

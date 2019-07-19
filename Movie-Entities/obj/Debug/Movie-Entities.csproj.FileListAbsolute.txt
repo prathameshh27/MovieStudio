@@ -1,0 +1,10 @@
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-Entities\bin\Debug\Movie-Entities.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-Entities\bin\Debug\Movie-Entities.pdb
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-Entities\obj\Debug\Movie-Entities.csprojResolveAssemblyReference.cache
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-Entities\obj\Debug\Movie-Entities.dll
+c:\users\prathamesh pavnoji\documents\visual studio 2013\Projects\MovieStudio\Movie-Entities\obj\Debug\Movie-Entities.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-Entities\bin\Debug\Movie-Entities.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-Entities\bin\Debug\Movie-Entities.pdb
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-Entities\obj\Debug\Movie-Entities.csprojResolveAssemblyReference.cache
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-Entities\obj\Debug\Movie-Entities.dll
+D:\WarMachine\Coding\visual studio projects\MovieStudio\Movie-Entities\obj\Debug\Movie-Entities.pdb

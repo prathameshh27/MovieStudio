@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="Movie_UI.Home" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <title>Home</title>
+    </asp:ContentPlaceHolder>
+
+    <link href="Styles/MasterStyleSheet.css" rel="stylesheet" />
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div class="head-menu">
+            <asp:Label CssClass="head-menu-item" ID="TitleLabel" runat="server" Text="Movie Studio"></asp:Label>
+        </div>
+        
+        <div class="master-body">
+            <table>
+                <tr>
+                    <td>
+                        <div class="content-body">
+                            <asp:ContentPlaceHolder ID="QueryContentPlaceHolder" runat="server">        
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="content-body">
+                            <asp:ContentPlaceHolder ID="TableContentPlaceHolder" runat="server">        
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        <div class="content-body">
+                            <asp:ContentPlaceHolder ID="DetailsContentPlaceHolder" runat="server">        
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </td>
+                </tr>
+
+
+            </table>
+        </div>
+
+    </form>
+</body>
+</html>
